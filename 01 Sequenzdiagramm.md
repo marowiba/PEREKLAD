@@ -195,7 +195,7 @@ else Validierung ERFOLGREICH
     note right of OSPrint: Manueller Hardcopy-Schritt\n(Stempel & Unterschrift außerhalb der App)
 end
 
-@endum
+@enduml
 
 ```
 
