@@ -1,0 +1,28 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# OneDrive / Windows Office temp
+~$*
+*.tmp
+
+# Build / dependency folders
+node_modules/
+dist/
+out/
