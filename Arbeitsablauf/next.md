@@ -69,22 +69,3 @@ Wenn Sequenzdiagramme + Datenmodell + Ports stehen, kann man:
 - erste Absatznavigation implementieren  
 
 Das ist der Moment, in dem die App „lebt“.
-
----
-
-# 🎯 Empfehlung: Was du *jetzt sofort* tun solltest
-
-Der **nächste konkrete Schritt** ist eindeutig:
-
-👉 **PlantUML_Sequenzdiagramm_erstellen**
-
-Warum?
-
-- Es verbindet Architektur + UI  
-- Es klärt alle Interaktionen  
-- Es verhindert Fehlentwicklungen  
-- Es ist die Grundlage für das Datenmodell  
-- Es ist der Schritt, den jedes professionelle Softwareteam jetzt machen würde  
-
----
-
